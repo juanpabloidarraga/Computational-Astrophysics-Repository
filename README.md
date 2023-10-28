@@ -1,7 +1,7 @@
 # Computational-Astrophysics-Repository
 
 
-Juan Pablo Castro Idarragan  
+Juan Pablo Castro Idarraga   
 This repository has the aim of saving all the codes created during two different subjects from UPC taken in 202302(spring)  
 
 Computational Astrophysics given by Professor Torres Santiago  
