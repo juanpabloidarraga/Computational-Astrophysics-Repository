@@ -1,4 +1,4 @@
-# Computational-Astrophysics-Repository
+# UPC Computational-Astrophysics
 
 
 Juan Pablo Castro Idarraga   
